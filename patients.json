@@ -1,0 +1,102 @@
+[
+  {
+    "name": "Aarav Sharma",
+    "city": "Jaipur",
+    "age": 34,
+    "gender": "Male",
+    "height": 175,
+    "weight": 72,
+    "bmi": 23.5,
+    "verdict": "Normal"
+  },
+  {
+    "name": "Priya Patel",
+    "city": "jaipur",
+    "age": 28,
+    "gender": "Female",
+    "height": 162,
+    "weight": 46,
+    "bmi": 17.5,
+    "verdict": "Underweight"
+  },
+  {
+    "name": "Rohan Verma",
+    "city": "Delhi",
+    "age": 45,
+    "gender": "Male",
+    "height": 170,
+    "weight": 92,
+    "bmi": 31.8,
+    "verdict": "Obese"
+  },
+  {
+    "name": "Ananya Iyer",
+    "city": "Bengaluru",
+    "age": 31,
+    "gender": "Female",
+    "height": 165,
+    "weight": 74,
+    "bmi": 27.2,
+    "verdict": "Overweight"
+  },
+  {
+    "name": "Vikram Singh",
+    "city": "Jodhpur",
+    "age": 52,
+    "gender": "Male",
+    "height": 178,
+    "weight": 84,
+    "bmi": 26.5,
+    "verdict": "Overweight"
+  },
+  {
+    "name": "Sneha Nair",
+    "city": "Kochi",
+    "age": 24,
+    "gender": "Female",
+    "height": 158,
+    "weight": 54,
+    "bmi": 21.6,
+    "verdict": "Normal"
+  },
+  {
+    "name": "Kabir Mehta",
+    "city": "Mumbai",
+    "age": 39,
+    "gender": "Male",
+    "height": 182,
+    "weight": 105,
+    "bmi": 31.7,
+    "verdict": "Obese"
+  },
+  {
+    "name": "Meera Joshi",
+    "city": "Pune",
+    "age": 29,
+    "gender": "Female",
+    "height": 160,
+    "weight": 45,
+    "bmi": 17.6,
+    "verdict": "Underweight"
+  },
+  {
+    "name": "Arjun Reddy",
+    "city": "Hyderabad",
+    "age": 41,
+    "gender": "Male",
+    "height": 173,
+    "weight": 68,
+    "bmi": 22.7,
+    "verdict": "Normal"
+  },
+  {
+    "name": "Kavita Das",
+    "city": "Kolkata",
+    "age": 48,
+    "gender": "Female",
+    "height": 155,
+    "weight": 66,
+    "bmi": 27.5,
+    "verdict": "Overweight"
+  }
+]
